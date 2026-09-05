@@ -1,0 +1,12 @@
+{
+  "display_name": "续写鸡 NEXT 一体化",
+  "loading_order": 100,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "liufu1366-a11y + ChatGPT",
+  "version": "1.0.16",
+  "homePage": "https://github.com/liufu1366-a11y/xu-xie-ji-50000",
+  "auto_update": false
+}
